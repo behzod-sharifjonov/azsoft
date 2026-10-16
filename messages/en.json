@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "ABOUT US",
+    "services": "SERVICES",
+    "projects": "PROJECTS",
+    "contact": "CONTACT",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menu": "MENU",
+    "close": "CLOSE",
+    "language": "Choose language",
+    "navigation": "Main navigation",
+    "tagline": "Digital solutions for business"
+  },
+  "hero": {
+    "words": [
+      { "text": "Grow" },
+      { "text": "your" },
+      { "text": "business" },
+      { "text": "and" },
+      { "text": "company" },
+      { "text": "with" },
+      { "text": "AZSOFT", "italic": true },
+      { "text": "by" },
+      { "text": "your" },
+      { "text": "side." }
+    ],
+    "description": "We build tailored IT solutions for innovative companies.",
+    "contact": "CONTACT US"
+  },
+  "about": {
+    "label": "ABOUT US",
+    "first": "Azsoft is a technology company creating modern IT solutions for businesses.",
+    "second": "We help companies build websites, CRM systems, mobile apps, automation systems, and digital services.",
+    "third": "We bring design, technology, and business goals together in every project.",
+    "projects": "EXPLORE OUR PROJECTS"
+  },
+  "services": {
+    "label": "OUR SERVICES",
+    "more": "More about {{title}}",
+    "items": [
+      {
+        "title": "Websites",
+        "description": "We build modern, fast, conversion-focused websites, including landing pages, corporate sites, and catalogs tailored to your brand."
+      },
+      {
+        "title": "Mobile apps",
+        "description": "We develop iOS and Android apps that make customer service easier and streamline business operations."
+      },
+      {
+        "title": "UI/UX design",
+        "description": "We create intuitive, polished digital product designs that support your business goals."
+      },
+      {
+        "title": "CRM systems",
+        "description": "We implement CRM systems tailored to your team to automate sales and customer workflows."
+      }
+    ]
+  },
+  "projects": {
+    "label": "OUR PROJECTS",
+    "contact": "Ask us about the {{name}} project",
+    "altB2b": "B2BShop landing page",
+    "altBaykal": "Baykal Terra landing page",
+    "altFiveStones": "Five Stones landing page",
+    "altOasis": "Oasis Travel landing page"
+  },
+  "footer": {
+    "title": "Let’s get in touch",
+    "description": "Leave your contact details and our team will get back to you. Let’s grow your business together.",
+    "name": "Name",
+    "phone": "Phone number",
+    "message": "Message",
+    "submit": "SEND",
+    "backendNotice": "The form is not connected to a backend yet; this is a visual preview.",
+    "copyright": "© 2026 AZSOFT GROUP"
+  }
+}

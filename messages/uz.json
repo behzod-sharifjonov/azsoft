@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "BIZ HAQIMIZDA",
+    "services": "XIZMATLARIMIZ",
+    "projects": "LOYIHALARIMIZ",
+    "contact": "ALOQA",
+    "openMenu": "Menyuni ochish",
+    "closeMenu": "Menyuni yopish",
+    "menu": "MENYU",
+    "close": "YOPISH",
+    "language": "Tilni tanlash",
+    "navigation": "Asosiy navigatsiya",
+    "tagline": "Raqamli biznes yechimlari"
+  },
+  "hero": {
+    "words": [
+      { "text": "Biznes" },
+      { "text": "va" },
+      { "text": "kompaniyangizni" },
+      { "text": "o‘sishini" },
+      { "text": "AZSOFT", "italic": true },
+      { "text": "bilan" },
+      { "text": "kuchaytiring." }
+    ],
+    "description": "Biz innovatsion kompaniyalar uchun maxsus IT-yechimlarni ishlab chiqamiz.",
+    "contact": "BOG‘LANISH"
+  },
+  "about": {
+    "label": "BIZ HAQIMIZDA",
+    "first": "Azsoft — bizneslar uchun zamonaviy IT yechimlar yaratadigan xizmat ko‘rsatuvchi kompaniya.",
+    "second": "Biz kompaniyalarga veb-sayt, CRM, mobil ilova, avtomatlashtirish tizimlari va raqamli servislarni ishlab chiqishda yordam beramiz.",
+    "third": "Biz har bir loyihada dizayn, texnologiya va biznes maqsadni birlashtiramiz.",
+    "projects": "LOYIHALARIMIZNI KO‘RING"
+  },
+  "services": {
+    "label": "XIZMATLARIMIZ",
+    "more": "{{title}} haqida batafsil",
+    "items": [
+      {
+        "title": "Web saytlar",
+        "description": "Biznesingiz uchun zamonaviy, tez ishlaydigan va sotuvga yo‘naltirilgan web saytlar yaratamiz. Landing page, korporativ sayt va kataloglarni brendingizga mos dizayn bilan ishlab chiqamiz."
+      },
+      {
+        "title": "Mobil ilova",
+        "description": "Mijozlaringizga qulay xizmat ko‘rsatish va biznes jarayonlarini soddalashtirish uchun iOS hamda Android ilovalarini ishlab chiqamiz."
+      },
+      {
+        "title": "UI/UX dizayn",
+        "description": "Foydalanuvchilar uchun tushunarli, chiroyli va biznes maqsadlaringizga xizmat qiladigan raqamli mahsulotlar dizaynini yaratamiz."
+      },
+      {
+        "title": "CRM tizimlar",
+        "description": "Savdo va mijozlar bilan ishlash jarayonlarini avtomatlashtiruvchi, jamoangizga mos CRM tizimlarini joriy qilamiz."
+      }
+    ]
+  },
+  "projects": {
+    "label": "LOYIHALARIMIZ",
+    "contact": "{{name}} loyihasi bo‘yicha bog‘lanish",
+    "altB2b": "B2BShop landing sahifasi",
+    "altBaykal": "Baykal Terra landing sahifasi",
+    "altFiveStones": "Five Stones landing sahifasi",
+    "altOasis": "Oasis Travel landing sahifasi"
+  },
+  "footer": {
+    "title": "Biz bilan bog‘laning",
+    "description": "Biz bilan bog‘lanish uchun ma’lumotlaringizni qoldiring. Bizning jamoa siz bilan bog‘lanadi. O‘z biznesingizni rivojlantirishga birga hissa qo‘shing.",
+    "name": "Ism",
+    "phone": "Telefon raqam",
+    "message": "Xabar",
+    "submit": "YUBORISH",
+    "backendNotice": "Forma backendga ulanmagan — hozircha faqat dizayn ko‘rinishida.",
+    "copyright": "© 2026 AZSOFT GROUP"
+  }
+}
